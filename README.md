@@ -11,7 +11,7 @@ BLAST can be run both as a web interface from NCBI website and can be setup from
 
 
 We basically can fire-up the BLAST queries on *query sequence(s)* in 2 ways;
-1. [Online BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+1. [Online BLAST](Online-BLAST.pdf)
 2. Local BLAST
 
 ------------
