@@ -17,7 +17,7 @@ We basically can fire-up the BLAST queries on *query sequence(s)* in 2 ways;
 ------------
 
 ### Online BLAST
-Reference: [BLAST suite](https://docs.google.com/document/d/1wLrF86JgyA5QLsrCjliExD5mUn_yjKrFqY_ysQsG6Lg/edit#heading=h.y4mkpqkczsrl) of tools
+Reference: [BLAST suite](https://blast.ncbi.nlm.nih.gov/Blast.cgi) of tools
 
 
 ------------
@@ -100,4 +100,3 @@ Here are the steps to setup a Local BLAST Database.
      - [Magic-Blast](https://ncbi.github.io/magicblast/)
      - [Blast-FASTA](https://www.cs.rice.edu/~ogilvie/comp571/2018/09/04/blast-fasta.html)
      - [Command line BLAST](https://open.oregonstate.education/computationalbiology/chapter/command-line-blast/)
-     - [Aganitha Docs](https://docs.google.com/document/d/1IaRkj2qt63Zwv1sj4lbg3t2-FxxHwQGRJF2THswkRRw/edit#)
