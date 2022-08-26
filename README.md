@@ -1,26 +1,9 @@
 <!-- This is README.md for BLAST Suite of Tools -->
-
 # BLAST: Basic Local Alignment Search Tool
-Search and Alignment Tool in Bioinformatics Domain
 
 BLAST is a representation of both an algorithm and a suite of tools that implement local alignments. BLAST Tool allows us to search a collection of target sequences for alignments that match a query sequence. As the name suggests, the results of a BLAST search are local alignments, thus a BLAST result is generally a partial match of the query sequence to a target sequence in the database.
 
 BLAST can be run both as a web interface from NCBI website and can be setup from BLAST standlone downloadable tool. The BLAST suite of tools encompass blastn, blastp, blastx, tblastn, tblastx and others.
-
-```mermaid
-blast
-	title Online BLAST Suite of Tools
-	section blastn
-		We study togther: 5: Me, Friend
-	section blastp
-		We study togther: 5: Me, Friend
-	section tblastn
-		We study togther: 5: Me, Friend
-	section blastx
-		We study togther: 5: Me, Friend
-	section tblastx
-		We study togther: 5: Me, Friend
-```
 
 ### Note:
 - A search may occur in nucleotide space, protein space or translated spaces where nucleotides are translated into proteins.
