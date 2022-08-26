@@ -92,7 +92,7 @@ Here are the steps to setup a Local BLAST Database.
      `./blast.sh`
      - The shell script will prompt the user for the parameters to be displayed in the report, threshold of sequence match, etc.
      - The shell script will build the Local BLAST DB and then perform a search by taking the `.fa file path` as a user input.
-     >Note: To run the Local_BLAST.sh, modify the Local BLAST Database location in the shell script accordingly.
+     > Note: To run the blast.sh, modify the Local BLAST Database location in the shell script accordingly.
 
 - ## Further References 
      - Biostar Handbook (4 Units of BLAST)
